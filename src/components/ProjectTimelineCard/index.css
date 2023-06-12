@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.img {
+  width: 200px;
+  height: 200px;
+}
+.ic {
+  display: flex;
+}
+.icon {
+  width: 20px;
+  height: 20px;
+  margin-top: 16px;
+  margin-right: 3px;
+}
+.cen {
+  display: flex;
+  justify-content: space-between;
+}
+.vi {
+  text-decoration: none;
+  font-size: 15px;
+}
